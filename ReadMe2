@@ -1,0 +1,23 @@
+# Code Functions
+
+1) read.m - Reading and storing the data from dataset
+
+2) k-means.m - Does clustering of data
+
+3) principal_comp.m - It does pca on one cluster.
+
+4) run_pca.m - Run pca on all clusters.
+
+5) search.m - search for the query point.
+
+6) final.m - Does search for all points and return MOR and avg query time.
+
+7) Heap.m - Used for creation of Heap.
+
+8) MaxHeap.m - used for creating a maxheap
+
+9) lin_search.m - does sequential scan on all data points to get nearst k points. 
+
+10) actual.m - uses matlab inbuilt k-nnsearch does same as lin_search.m 
+
+11) auto.m - Does the complete process in a single run without any intervention. 
